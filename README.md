@@ -13,9 +13,8 @@ python3 -m venv .venv && source .venv/bin/activate
 # Install dependencies
 pip3 install -r requirements.txt
 
-# Run the program
-python3 -m main
+# Run the draw image example
+python3 ./examples/draw-image.py
 ```
 
-> [!NOTE]
-> The source code is in `main.py`. Explore and mess around with it!
+More examples can be found in the `examples/` directory.
