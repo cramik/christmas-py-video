@@ -10,3 +10,5 @@ platformdirs==3.10.0
 protobuf==4.25.1
 pycairo==1.24.0
 websockets==12.0
+opencv-python
+Pillow
